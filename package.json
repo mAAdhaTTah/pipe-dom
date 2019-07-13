@@ -1,6 +1,6 @@
 {
   "name": "pipe-dom",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "DOM manipulation with the F#-style pipeline operator",
   "main": "src/index.js",
   "scripts": {
