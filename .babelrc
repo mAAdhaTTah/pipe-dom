@@ -1,0 +1,6 @@
+{
+  "plugins": [
+    ["@babel/proposal-pipeline-operator", { "proposal": "fsharp" }],
+    "@babel/transform-modules-commonjs"
+  ]
+}

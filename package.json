@@ -1,0 +1,26 @@
+{
+  "name": "pipe-dom",
+  "version": "0.0.0",
+  "description": "DOM manipulation with the F#-style pipeline operator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "pipeline",
+    "operator",
+    "DOM"
+  ],
+  "author": "James DiGioia <jamesorodig@gmail.com> (http://jamesdigioia.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/plugin-proposal-pipeline-operator": "^7.5.0",
+    "@babel/plugin-transform-modules-commonjs": "^7.5.0",
+    "@testing-library/dom": "^5.6.0",
+    "@testing-library/jest-dom": "^4.0.0",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "prettier": "^1.18.2"
+  }
+}
