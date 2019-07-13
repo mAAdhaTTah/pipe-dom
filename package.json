@@ -20,6 +20,18 @@
   ],
   "author": "James DiGioia <jamesorodig@gmail.com> (http://jamesdigioia.com)",
   "license": "MIT",
+  "homepage": "https://github.com/mAAdhaTTah/pipe-dom#welcome-to-pipe-dom-",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mAAdhaTTah/pipe-dom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mAAdhaTTah/pipe-dom/issues"
+  },
+  "engines": {
+    "npm": ">=5.2.0",
+    "node": ">=8.0.0"
+  },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.5.4",
