@@ -1,14 +1,6 @@
 # Welcome to pipe-dom 👋
 
-<p>
-  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
-  </a>
-  <a href="https://twitter.com/JamesDiGioia">
-    <img alt="Twitter: JamesDiGioia" src="https://img.shields.io/twitter/follow/JamesDiGioia.svg?style=social" target="_blank" />
-  </a>
-</p>
+![npm version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Twitter: JamesDiGioia](https://img.shields.io/twitter/follow/JamesDiGioia.svg?style=social)](https://twitter.com/JamesDiGioia) [![Build Status](https://travis-ci.org/mAAdhaTTah/pipe-dom.svg?branch=master)](https://travis-ci.org/mAAdhaTTah/pipe-dom)
 
 > DOM manipulation with the F#-style pipeline operator
 
