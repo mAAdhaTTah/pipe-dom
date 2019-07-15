@@ -103,7 +103,7 @@ query('ul') |> append(document.createElement('li'));
 ### `prepend`
 
 ```ts
-function prepend(...element: Node): (target: Node) => target;
+function prepend(...element: Node[]): (target: Node) => target;
 ```
 
 Append Nodes as the first child to the given Node.
